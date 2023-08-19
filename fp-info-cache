@@ -1,4 +1,4 @@
-21863870728200613
+21865563183473066
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -73149,6 +73149,13 @@ VLGA NoLead
 0
 4
 4
+Package_PGA48
+EA_DOGM162S
+Graphical,Display,LCD,128x64 https://www.lcd-module.de/eng/pdf/grafik/dogm128e.pdf
+EA DOGM128-6
+0
+26
+26
 Package_PGA48
 PGA48
 
